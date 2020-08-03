@@ -29,8 +29,8 @@
 
 /* Begin PBXFileReference section */
 		1D117E14E50A82F4730371E9 /* Pods_JPCardTransition_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JPCardTransition_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1D8FB22C316725A035AA0DB9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		3BB5992B1BD9E54D823A64EF /* JPCardTransition.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = JPCardTransition.podspec; path = ../JPCardTransition.podspec; sourceTree = "<group>"; };
+		1D8FB22C316725A035AA0DB9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		3BB5992B1BD9E54D823A64EF /* JPCardTransition.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JPCardTransition.podspec; path = ../JPCardTransition.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* JPCardTransition_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JPCardTransition_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		A35D480F4B6ADF270ABE9EC8 /* Pods_JPCardTransition_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JPCardTransition_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1157126042BEDF60797E6EC /* Pods-JPCardTransition_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JPCardTransition_Example.debug.xcconfig"; path = "Target Support Files/Pods-JPCardTransition_Example/Pods-JPCardTransition_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DA61AB295806327B4AC4B051 /* Pods-JPCardTransition_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JPCardTransition_Tests.release.xcconfig"; path = "Target Support Files/Pods-JPCardTransition_Tests/Pods-JPCardTransition_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		E4DFCD25042551904EC09DC0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E4DFCD25042551904EC09DC0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,7 +156,6 @@
 				825685B8082359BE25C417DF /* Pods-JPCardTransition_Tests.debug.xcconfig */,
 				DA61AB295806327B4AC4B051 /* Pods-JPCardTransition_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

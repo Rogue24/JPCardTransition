@@ -1,0 +1,6 @@
+framework module Pods_JPCardTransition_Tests {
+  umbrella header "Pods-JPCardTransition_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

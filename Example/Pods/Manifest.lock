@@ -1,0 +1,16 @@
+PODS:
+  - JPCardTransition (0.1.0)
+
+DEPENDENCIES:
+  - JPCardTransition (from `../`)
+
+EXTERNAL SOURCES:
+  JPCardTransition:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JPCardTransition: 7eb248b2190c7933e78660505212ff5135918cb7
+
+PODFILE CHECKSUM: 05772a2da3530d55007177c937cf6d2e17da0a36
+
+COCOAPODS: 1.9.3

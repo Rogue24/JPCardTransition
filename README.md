@@ -1,24 +1,16 @@
 # JPCardTransition
 
-[![CI Status](https://img.shields.io/travis/zhoujianping24@hotmail.com/JPCardTransition.svg?style=flat)](https://travis-ci.org/zhoujianping24@hotmail.com/JPCardTransition)
-[![Version](https://img.shields.io/cocoapods/v/JPCardTransition.svg?style=flat)](https://cocoapods.org/pods/JPCardTransition)
-[![License](https://img.shields.io/cocoapods/l/JPCardTransition.svg?style=flat)](https://cocoapods.org/pods/JPCardTransition)
-[![Platform](https://img.shields.io/cocoapods/p/JPCardTransition.svg?style=flat)](https://cocoapods.org/pods/JPCardTransition)
-
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+It's very easy to use to imitate the transition animation of App Store.
 
-## Requirements
+### Card Style
+![](https://github.com/Rogue24/JPCover/raw/master/JPCardTransition/cardstyle.gif)
 
-## Installation
+### Zoom Style
+![](https://github.com/Rogue24/JPCover/raw/master/JPCardTransition/zoomstyle.gif)
 
-JPCardTransition is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'JPCardTransition'
-```
+**Coming soon...**
 
 ## Author
 

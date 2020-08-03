@@ -1,0 +1,6 @@
+framework module JPCardTransition {
+  umbrella header "JPCardTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}
