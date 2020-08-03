@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JPCardTransition_Example' do
+  pod 'JPCardTransition', :path => '../'
+
+  target 'JPCardTransition_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
